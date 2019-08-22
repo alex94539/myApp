@@ -2,3 +2,58 @@
   max-height: 35vh;
   overflow: hidden;
 }
+
+ion-content{
+  --ion-background-color: #DDDDDD;
+}
+
+img.top{
+  width: 30px;
+  height: 30px;
+  vertical-align: middle;
+}
+
+img.mid{
+  width: 30px;
+  height: 30px;
+  vertical-align: middle;
+}
+
+.top{
+  display: inline-block; 
+}
+
+.mid{
+  display: inline-block;
+}
+
+#mumi{
+  vertical-align: middle;
+  
+}
+
+#topblock {
+  border-radius: 5px;
+  background-color: white;
+  margin: 20px;
+}
+
+#topimage{
+  margin: 5px 5px 0 5px;
+}
+
+#midimage{
+  margin: 5px 5px 0 5px;
+}
+
+#toptextblock{
+  margin: 0 0 0 100px;
+  color: red;
+  font-size: 30px;
+}
+
+#middleblock{
+  border-radius: 5px;
+  background-color: white;
+  margin: 20px;
+}
