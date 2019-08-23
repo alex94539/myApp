@@ -57,3 +57,47 @@ img.mid{
   background-color: white;
   margin: 20px;
 }
+
+#bottomblock{
+  border-radius: 10px;
+  border: 3px;
+  border-style: solid;
+  border-color: orange;
+  background-color: white;
+  margin: 20px;
+}
+
+#bottomblock img{
+  margin: 10px 0 10px 0;
+  width: 30px;
+  height: 30px;
+}
+
+.ll{
+  display: inline-block;
+}
+
+ul{
+  margin: 0 0 0 20px;
+  list-style: none;
+  padding-inline-start: 0px;
+}
+
+li{
+  border-top: black 1px dotted;
+}
+
+.reminder{
+  margin: 10px;
+}
+
+p.bot{
+  vertical-align: top;
+  margin: 13px 0 0 10px;
+  font-size: 25px;
+  color: red;  
+}
+
+.bot{
+  display: inline-block;
+}
