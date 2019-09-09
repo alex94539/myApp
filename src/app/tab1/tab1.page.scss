@@ -81,6 +81,7 @@ ul{
   margin: 0 0 0 20px;
   list-style: none;
   padding-inline-start: 0px;
+  padding-inline-end: 20px;
 }
 
 li{
@@ -91,11 +92,12 @@ li{
   margin: 10px;
 }
 
-p.bot{
+ion-button.bot{
   vertical-align: top;
-  margin: 13px 0 0 10px;
+  margin: 10px 0 0 10px;
   font-size: 25px;
   color: red;  
+  --box-shadow:none;
 }
 
 .bot{
