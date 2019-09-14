@@ -1,0 +1,57 @@
+.tool{
+    background-color: rgb(236, 180, 106);
+}
+
+.bot{
+    width: 200px;
+    height: 200px;
+    
+}
+
+.inline{
+    display: inline-block;
+}
+
+.inline-bot{
+    display: inline-block;
+}
+
+#blank{
+    width: 36px;
+    height: 50px;
+}
+
+.spe-bot{
+    width: 438px;
+    height: 200px;
+}
+
+p.text{
+    color: black;
+    font-size: 20px;
+}
+
+.pic{
+    margin: auto;
+    text-align : center;
+    width: 100px;
+    height: 100px;
+}
+
+.top{
+    text-align: center;
+    margin: 30px 0 0 0;
+}
+
+.mid{
+    text-align: center;
+}
+
+.bottom{
+    text-align: center;
+}
+
+ion-button{
+    border: solid;
+    border-color: orange;
+}
